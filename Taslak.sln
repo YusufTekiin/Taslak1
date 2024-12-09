@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taslak", "Taslak\Taslak.csproj", "{EF632C15-CAF6-4F6A-8924-FADDA6EED8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF632C15-CAF6-4F6A-8924-FADDA6EED8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF632C15-CAF6-4F6A-8924-FADDA6EED8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF632C15-CAF6-4F6A-8924-FADDA6EED8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF632C15-CAF6-4F6A-8924-FADDA6EED8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26C3E29-240E-4FEB-8D68-DAAFDDF2BDC4}
+	EndGlobalSection
+EndGlobal
